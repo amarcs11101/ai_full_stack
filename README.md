@@ -76,17 +76,11 @@
   🛠 Tools: SageMaker, MLflow, DVC, Weights & Biases
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Project Running Steps 
-        Step I :
-    _________________
-
+        Step I : 
 > Installing the dependencies
-
 pip install -r requirements.txt 
 
         Step II:
-    ___________________
-
-
 > uvicorn app.main:app --reload
 
-# END #
+
