@@ -77,10 +77,10 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Project Running Steps 
         Step I : 
-> Installing the dependencies
-pip install -r requirements.txt 
+- Installing the dependencies
+   ` pip install -r requirements.txt `
 
         Step II:
-> uvicorn app.main:app --reload
+` uvicorn app.main:app --reload `
 
 
