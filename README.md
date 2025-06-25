@@ -66,5 +66,6 @@ Note:- This Project is made by ` Abhishek Amar ` just for fun .
 ` pip install -r requirements.txt ` <br>
 - Go to root folder & execute 
     ` uvicorn app.main:app --reload `
+#
 
 
