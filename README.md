@@ -19,10 +19,18 @@ and autonomous decision-making.
   Pipelines support both batch and streaming data
 
 # Data Science & Deep Learning
+  -----------------------------------------------------------------------------------------------------------------------
+  Data Ingestion : Using Bricks
+  ------------------------------------------------------------------------------------------------------------------------
+  Model Evaluation  --> Deploy --> Monitor --> Retraining :- Using MLOPS
+  ------------------------------------------------------------------------------------------------------------------------
+  Data Ingestion --> preprocessing --> EDA --> Model creation --->Model Evaluation  --> Deploy --> Monitor --> Retraining 
+  ------------------------------------------------------------------------------------------------------------------------
   Predictive modeling (e.g., failure prediction, sensor drift)  
   Models built using PyTorch and TensorFlow  
   Automated anomaly detection using LSTM/GRU time series models  
   ML models are deployed with MLflow on Databricks
+  
 # LLM Agents (LangChain + LangGraph) + Langsmith (for logs)
   LangChain agents respond to anomalies and recommend remediation steps
   Integrated with SQS and Lambda for real-time triggering
