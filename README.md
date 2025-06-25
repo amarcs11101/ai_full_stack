@@ -3,6 +3,8 @@
 This project is a real-time, end-to-end IoT intelligence platform that integrates sensor-driven data collection with cloud-native ETL, deep learning, and GenAI-powered automation.
 The architecture is built by ` Abhishek Amar ` on AWS and Databricks, combining traditional data engineering with modern LLM-based agents for predictive insights, anomaly detection, 
 and autonomous decision-making.
+# tox.ini
+  We use it for the testing in the python package testing against different version of the python
 
 # IoT Sensor Layer
   Physical IoT devices collect real-time environmental, motion, or equipment data.  
@@ -19,6 +21,7 @@ and autonomous decision-making.
   Pipelines support both batch and streaming data
 
 # Data Science & Deep Learning
+  - FOR DATA SCIENCE 
   -----------------------------------------------------------------------------------------------------------------------
   | Data Ingestion : Using Bricks
   ------------------------------------------------------------------------------------------------------------------------
