@@ -35,10 +35,10 @@
      Sensor Drift Detection
   
   MLOps Workflow:
-      ✅ Model training in SageMaker or Databricks  
-      ✅ Tracked using MLflow (experiments, metrics, versions)      
-      ✅ Packaged in Docker + deployed via SageMaker endpoints or FastAPI      
-      ✅ Model Registry + CI/CD with GitHub Actions    
+      - Model training in SageMaker or Databricks  
+      - Tracked using MLflow (experiments, metrics, versions)      
+      - Packaged in Docker + deployed via SageMaker endpoints or FastAPI      
+      - Model Registry + CI/CD with GitHub Actions    
   🛠 Tools: SageMaker, MLflow, DVC, Weights & Biases
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Project Running Steps 
