@@ -75,12 +75,8 @@
          Detects issue → Runs diagnostics → Summarizes problem → Suggests actions → Escalates if needed
   🛠 Tools: SageMaker, MLflow, DVC, Weights & Biases
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# Project Running Steps 
-        Step I : 
-- Installing the dependencies
-   ` pip install -r requirements.txt `
-
-        Step II:
+# Project Running Steps  
+` pip install -r requirements.txt ` 
 ` uvicorn app.main:app --reload `
 
 
