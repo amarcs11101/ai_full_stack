@@ -30,8 +30,7 @@
   Use Cases:
      Predictive Maintenance     
      Fault Detection     
-     Sensor Drift Detection
-     
+     Sensor Drift Detection     
   MLOps Workflow:
       - Model training in SageMaker or Databricks  
       - Tracked using MLflow (experiments, metrics, versions)      
@@ -39,40 +38,26 @@
       - Model Registry + CI/CD with GitHub Actions    
   # LLMs & LLMOps (LangChain + LLM Fine-tuning)
       LLM Use Cases:
-      Explain anomaly trends
+        Explain anomaly trends      
+        Generate diagnostic reports      
+        Summarize sensor history      
+        Chat-based queries (“What happened to Sensor X in Zone Y?”)
       
-      Generate diagnostic reports
-      
-      Summarize sensor history
-      
-      Chat-based queries (“What happened to Sensor X in Zone Y?”)
-    
    # LLMOps Workflow:
-      Fine-tune LLaMA / Mistral using domain-specific data
-      
-      Use QLoRA or PEFT for memory-efficient fine-tuning
-      
-      Manage with:
-      
-      LangSmith for tracing & debugging
-      
-      LangGraph for agent workflow orchestration
-      
-      LangChain to bind tools, vector DBs, function calling
-    
-   # Prompt Engineering:
-    
-      Chain-of-thought
-      
-      ReAct (reasoning + acting)
-      
-      Tool-use prompting
-      
-      Few-shot examples
-    
+      Fine-tune LLaMA / Mistral using domain-specific data      
+      Use QLoRA or PEFT for memory-efficient fine-tuning      
+      Manage with:      
+         LangSmith for tracing & debugging      
+         LangGraph for agent workflow orchestration      
+         LangChain to bind tools, vector DBs, function calling    
+   # Prompt Engineering:    
+         Chain-of-thought      
+         ReAct (reasoning + acting)      
+         Tool-use prompting      
+         Few-shot examples    
     # Agents (Agentic AI with LangGraph)
          Auto-agent that:    
-         Detects issue → Runs diagnostics → Summarizes problem → Suggests actions → Escalates if needed
+            Detects issue → Runs diagnostics → Summarizes problem → Suggests actions → Escalates if needed
   🛠 Tools: SageMaker, MLflow, DVC, Weights & Biases
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Project Running Steps  
