@@ -64,6 +64,7 @@ Note:- This Project is made by ` Abhishek Amar ` just for fun .
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Project Running Steps  
 ` pip install -r requirements.txt ` <br>
-` uvicorn app.main:app --reload `
+- Go to root folder & execute 
+    ` uvicorn app.main:app --reload `
 
 
