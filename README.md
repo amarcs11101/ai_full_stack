@@ -28,12 +28,10 @@
 
 # ML Models & MLOps
   Use Cases:
-     Predictive Maintenance
-     
-     Fault Detection
-     
+     Predictive Maintenance     
+     Fault Detection     
      Sensor Drift Detection
-  
+     
   MLOps Workflow:
       - Model training in SageMaker or Databricks  
       - Tracked using MLflow (experiments, metrics, versions)      
