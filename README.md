@@ -1,4 +1,6 @@
+Note:- This Project is made by ` Abhishek Amar ` just for fun .
  # AI Sensor Device Management System – Full-Stack GenAI-Powered Intelligent Infrastructure (END TO END From Scratch)
+
  - Project Vision
    To design an end-to-end AI-powered intelligent sensor management system that performs real-time monitoring, predictive diagnostics, natural language reporting, and autonomous actions        using a blend of ML, LLMs, MLOps, and cloud-native engineering.   
    The system leverages the LangChain agentic stack, Databricks pipelines, and AWS ecosystem for reliability, scalability, and intelligence at scale.
