@@ -20,11 +20,11 @@ and autonomous decision-making.
 
 # Data Science & Deep Learning
   -----------------------------------------------------------------------------------------------------------------------
-  Data Ingestion : Using Bricks
+  | Data Ingestion : Using Bricks
   ------------------------------------------------------------------------------------------------------------------------
-  Model Evaluation  --> Deploy --> Monitor --> Retraining :- Using MLOPS
+  | Model Evaluation  --> Deploy --> Monitor --> Retraining :- Using MLOPS
   ------------------------------------------------------------------------------------------------------------------------
-  Data Ingestion --> preprocessing --> EDA --> Model creation --->Model Evaluation  --> Deploy --> Monitor --> Retraining 
+  | Data Ingestion --> preprocessing --> EDA --> Model creation --->Model Evaluation  --> Deploy --> Monitor --> Retraining 
   ------------------------------------------------------------------------------------------------------------------------
   Predictive modeling (e.g., failure prediction, sensor drift)  
   Models built using PyTorch and TensorFlow  
