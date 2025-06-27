@@ -1,3 +1,5 @@
 uvicorn
 fastapi
 dotenv
+sqlalchemy
+pydantic
